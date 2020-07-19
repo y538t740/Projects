@@ -3,5 +3,6 @@ def main(msg):
     //print a message
 
     print(msg)
+    print(msg)
 
 print ("Hello word")
